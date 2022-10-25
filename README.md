@@ -1,2 +1,2 @@
-# maven-jar-template
-Maven Jar 项目模板
+# Dagger2-learning
+Dagger2 学习使用项目
